@@ -178,3 +178,6 @@ cython_debug/
 input_data/
 artifacts/
 /artifacts
+
+s3/
+/s3
