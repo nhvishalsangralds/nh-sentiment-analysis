@@ -1,3 +1,7 @@
+import os
+import sys
+
+
 chat_words_dict = {
     "brb": "Be Right Back",
     "lol": "Laugh Out Loud",
