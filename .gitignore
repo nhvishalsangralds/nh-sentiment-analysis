@@ -176,3 +176,5 @@ cython_debug/
 
 #input reviews
 input_data/
+artifacts/
+/artifacts
