@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+nltk
+emoji
+pyspellchecker
+optuna
+gensim
+pyLDAvis
+bertopic 
+umap-learn 
+hdbscan
+dvc
+
+
